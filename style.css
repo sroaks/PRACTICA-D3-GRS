@@ -1,0 +1,5 @@
+.line {
+    fill: none;
+    stroke: blue; /* Color de la línea */
+    stroke-width: 2; /* Ancho de la línea */
+  }
